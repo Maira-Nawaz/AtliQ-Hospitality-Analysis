@@ -1,7 +1,13 @@
 # AtliQ-Hospitality-Analysis
 
-
 This Power BI project was developed to help **AtliQ Grands**, a five-star hotel chain, regain its declining market share and revenue through data-driven insights.
+
+
+## Links
+
+- **Live Dashboard**: [View Here](https://captainviz.com/developer/685cf892bd09e3970b1f1a3a?projectId=6864d2760656a7b0fbf0c73b&inspirationId=6864d36a76097c410b6b2f83)
+- **Challenge Source**: [View Here](https://codebasics.io/challenge/codebasics-resume-project-challenge)
+
 
 
 ## Problem Statement
@@ -10,26 +16,21 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 
 Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
 
----
-
 ## Datasets Used
 
 1. `dim_date.csv` – Date, day types, week number, etc.  
 2. `dim_hotels.csv` – Hotel IDs, names, city, and category  
 3. `dim_rooms.csv` – Room types and classes  
 4. `fact_bookings.csv` – Detailed booking transactions  
-5. `fact_aggregated_bookings.csv` – Aggregated bookings by room and property  
+5. `fact_aggregated_bookings.csv` – Aggregated bookings by room and property
 
 
-
-## Key Insights
+## Major Insights
 
 - Mumbai leads in revenue; AtliQ Seasons underperforms in both revenue and ratings  
 - Weekdays have higher occupancy than weekends (opposite of expected trend)  
 - Elite rooms are popular but have high cancellations; Presidential rooms underutilized  
 - Most bookings come from the “Others” platform; branded platforms need optimization
-
----
 
 ## Recommendations
 
@@ -39,6 +40,3 @@ Their revenue management team had decided to hire a 3rd party service provider t
 - Collect and act on customer feedback for low-rated properties  
 - Reduce cancellations in Elite room category  
 - Use calendar and weekly trend data for better operational decisions
-
-
-

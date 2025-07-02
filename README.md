@@ -20,20 +20,22 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 ## Provided Mock-up Dashboard
 
-![Data Model](https://github.com/your-username/your-repo-name/blob/main/data_model.png)
+![Data Model](https://github.com/Maira-Nawaz/AtliQ-Hospitality-Analysis/blob/main/resources/mock%20up%20dashboard_atliq%20grands.png)
 
 ---
 
 
 ## Data Model
 
-![Data Model](https://github.com/your-username/your-repo-name/blob/main/data_model.png)
+![Data Model](https://github.com/Maira-Nawaz/AtliQ-Hospitality-Analysis/blob/main/resources/Data%20Model.png)
 
 ---
 
 ## Dashboard Preview
 
 ![Dashboard](https://github.com/Maira-Nawaz/AtliQ-Hospitality-Analysis/blob/main/resources/Dashboard%201.png)
+
+![Dashboard](https://github.com/Maira-Nawaz/AtliQ-Hospitality-Analysis/blob/main/resources/Dashboard%202.png)
 
 
 

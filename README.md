@@ -16,6 +16,28 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 
 Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
 
+
+
+## Provided Mock-up Dashboard
+
+![Data Model](https://github.com/your-username/your-repo-name/blob/main/data_model.png)
+
+---
+
+
+## Data Model
+
+![Data Model](https://github.com/your-username/your-repo-name/blob/main/data_model.png)
+
+---
+
+## Dashboard Preview
+
+![Dashboard](https://github.com/Maira-Nawaz/AtliQ-Hospitality-Analysis/blob/main/resources/Dashboard%201.png)
+
+
+
+
 ## Datasets Used
 
 1. `dim_date.csv` – Date, day types, week number, etc.  

@@ -64,3 +64,10 @@ Their revenue management team had decided to hire a 3rd party service provider t
 - Collect and act on customer feedback for low-rated properties  
 - Reduce cancellations in Elite room category  
 - Use calendar and weekly trend data for better operational decisions
+
+##  Author
+
+**Maira Nawaz**
+
+[LinkedIn](https://www.linkedin.com/in/mairanawaz/) | [Kaggle](https://www.kaggle.com/mairanawaz) | [Github](https://github.com/Maira-Nawaz)
+
